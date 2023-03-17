@@ -1,8 +1,8 @@
 ### Hello! I'm a student currently studying programming, learning my way to produce my dream videogame.
 
-📚 • I’m currently working on developing a Discord Bot.
-🧠 • I'm currently learning about JavaScripts and C++.
-💫 • Fun Fact: I'm a huge fan of Star Wars!
+- 📚 • I’m currently working on developing a Discord Bot.
+- 🧠 • I'm currently learning about JavaScripts and C++.
+- 💫 • Fun Fact: I'm a huge fan of Star Wars!
 
 ### Links for my other Social Media: https://beacons.ai/everydaychemist
 
