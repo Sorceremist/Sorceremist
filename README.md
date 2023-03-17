@@ -1,4 +1,4 @@
-### Hello! I'm a student currently studying programming, learning my way to produce my dream videogame.
+### Hello! I'm a student currently studying programming, learning my way to produce my dream video-game.
 
 - I’m currently working on developing a Discord Bot.
 - I'm currently learning about JavaScripts and C++.
