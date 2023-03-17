@@ -4,7 +4,7 @@
 - I'm currently learning about JavaScripts and C++.
 - Fun Fact: I'm a huge fan of Star Wars!
 
-📍 Links for my other Social Medias: https://beacons.ai/everydaychemist
+📍 Link for my other Social Medias: https://beacons.ai/everydaychemist
 
 <!--
 **Sorceremist/Sorceremist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
