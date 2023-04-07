@@ -2,7 +2,6 @@
 
 - I’m currently working on developing a Discord Bot.
 - I'm currently learning about JavaScripts and C++.
-- Fun Fact: I'm a huge fan of Star Wars!
 
 📍 Link for my other Social Medias: https://beacons.ai/xazsl
 
