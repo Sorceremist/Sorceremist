@@ -3,7 +3,7 @@
 - I’m currently working on developing a Discord Bot.
 - I'm currently learning about JavaScripts and C++.
 
-📍 Link for my other Social Medias: https://beacons.ai/sorce
+📍 Link for my other Social Medias: https://sorc.carrd.co/
 
 <!--
 **Sorceremist/Sorceremist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
