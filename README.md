@@ -1,9 +1,9 @@
-### Hello! I'm a student studying programming, learning my way to produce my dream video-game.
+### Hello. I'm a student studying programming, learning my way to produce my dream video-game.
 
 - I’m currently working on developing a Discord Bot.
 - I'm currently learning about JavaScripts and C++.
 
-📍 Link for my other Social Medias: https://sorc.carrd.co/
+Link for my other Social Medias: https://sorc.carrd.co/
 
 <!--
 **Sorceremist/Sorceremist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
